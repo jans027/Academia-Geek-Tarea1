@@ -1,0 +1,40 @@
+*{
+    background-color:#f3f4f5 ;
+}
+h1 {
+    color: black;
+    font-family: "Arial";
+    font-size: 24px;
+}
+#cabecera, h3{
+    text-align: center;
+}
+
+img{
+    border-radius: 30px;
+}
+p{
+    font-family: "Georgia";
+    font-size: 18px;
+    color: #757575;
+    text-align: center;
+}
+li {
+    font-family: "Georgia";
+    font-size: 18px;
+    color: #757575;
+}
+#img{
+    width: 600px;
+    border-radius: 35px;
+    display:block;
+    margin:auto;
+}
+
+
+
+
+
+
+
+
